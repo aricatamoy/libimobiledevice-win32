@@ -9,6 +9,6 @@ public:
 	CDeviceDataTransfer();
 	~CDeviceDataTransfer();
 
-	void start_connect(std::string ip, unsigned int port);
+	static void start_connect(std::string device_uuid, unsigned int port);
 };
 

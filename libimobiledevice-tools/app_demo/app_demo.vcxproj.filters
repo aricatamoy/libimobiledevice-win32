@@ -21,7 +21,7 @@
     <ClCompile Include="device_data_transfer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="iproxy.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
